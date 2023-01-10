@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+.box {
+  width: 760px;
+  height: 430px;
+  margin: 0 auto;
+  border: 2px solid black;
+  position: relative;
+}
+
+img {
+  border: 15px solid white;
+  margin: 0 auto;
+  display: block;
+}
+
+div {
+  width: 100px;
+  border: 10px solid green;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.rick {
+  position: absolute;
+  background-color: rgb(255, 255, 255, 0.5);
+  right: -25px;
+  top: 30px;
+}
+
+.sanchez {
+  position: absolute;
+  background-color: rgb(255, 255, 255, 0.5);
+  right: -25px;
+  top: 100px;
+}
